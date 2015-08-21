@@ -1,13 +1,10 @@
 {
-  "name": "textangular",
+  "name": "text-angular-with-tables",
   "version": "1.4.3",
   "description": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js",
   "maintainers": [
     {
-      "name": "Fraywing"
-    },
-    {
-      "name": "SimeonC"
+      "name": "Andrey"
     }
   ],
   "keywords": [
@@ -55,6 +52,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraywing/textAngular.git"
+    "url": "git@github.com:andreyluiz/textAngular.git"
   }
 }
